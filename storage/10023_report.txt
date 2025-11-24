@@ -1,0 +1,7 @@
+----- REPORT CARD -----
+Name: Eshu
+Roll: 10023
+Marks: [12, 13, 14]
+Total: 39
+Percentage: 13.00
+Grade: F
